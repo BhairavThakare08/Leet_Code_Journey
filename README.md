@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
