@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0169-majority-element) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -53,5 +55,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
