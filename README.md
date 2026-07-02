@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/1480-running-sum-of-1d-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0283-move-zeroes) |
 ## Simulation
 |  |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
