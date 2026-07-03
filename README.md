@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0283-move-zeroes) |
@@ -59,10 +61,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0189-rotate-array) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
