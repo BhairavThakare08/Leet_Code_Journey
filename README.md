@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0912-sort-an-array](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/1480-running-sum-of-1d-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -136,10 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -149,4 +154,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0036-valid-sudoku) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
