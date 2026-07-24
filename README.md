@@ -189,4 +189,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0147-insertion-sort-list) |
+| [0206-reverse-linked-list](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
