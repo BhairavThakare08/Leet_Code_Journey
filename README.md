@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0160-intersection-of-two-linked-lists) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
