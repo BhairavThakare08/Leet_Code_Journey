@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0125-valid-palindrome) |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0234-palindrome-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
