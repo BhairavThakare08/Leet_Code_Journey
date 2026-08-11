@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0875-koko-eating-bananas) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
@@ -134,10 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
