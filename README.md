@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/1480-running-sum-of-1d-array) |
@@ -137,11 +138,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0739-daily-temperatures) |
 ## String
 |  |
 | ------- |
