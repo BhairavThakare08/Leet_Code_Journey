@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0394-decode-string) |
 ## Trie
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0394-decode-string) |
 ## Bracket Sequences
 |  |
 | ------- |
