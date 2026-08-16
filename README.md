@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0394-decode-string) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0232-implement-queue-using-stacks) |
 ## Range Minimum/Maximum Query
 |  |
@@ -248,5 +250,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/BhairavThakare08/Leet_Code_Journey/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
